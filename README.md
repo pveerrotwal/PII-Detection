@@ -1,5 +1,3 @@
-Here's a `README.md` file based on the provided project details:
-
 ```markdown
 # PII Detection and Pseudonymization Project
 
