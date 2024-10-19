@@ -1,0 +1,63 @@
+{
+    "company": {
+        "name": "Tech Innovators Inc.",
+        "founded": "JkJWItU7mddAhxvvBhW1z23R6Mjq8LAiV3rTHHg7r2Y=",
+        "address": "789, U+yfZUy58M0I9owOK2iMByR8gZtT9kpg3dCiXmnGfPg=, O0wRM8yvYpZ6tJNrPV1467atvSgfrnX6mZD6PD2F3CA=",
+        "employees": [
+            {
+                "name": "lcuDcRl6QCJFM5Oo8QueleGhncwxdCnF1GJ0abRxh/E=",
+                "email": "BmSza4HZf0XfEhPcBDkqOt9xFfvyEyGgDL7P4ishOBLiRWO0Ul8Ii1puGcAFXq9pjgF0mnpZ4eyRHA1JdqSNvw==",
+                "phone": "5RS0z9TOjPFOMDGoukaWPpJRHLyDfW4w+y9oKiUOtyI=",
+                "role": "Software Engineer",
+                "project_code": "PRJ-001-AJ",
+                "ssn": "fFx5ImrWc8FWEuIOPZRdEaJ9xcz2GSR7qlICWqA1L3k="
+            },
+            {
+                "name": "BpuawqLQn7Z5tUWIMHIzUe8YR3asF9aco5wmxF7UTyU=",
+                "email": "uTKwTz0x5aDCvxGNGoFuWBEcy7beiLGMBLDV16crO41akLfesGEBVzKUUztB3Zxw",
+                "phone": "kq1WsxZnrqzw0wOXg1ErQn59saAfP62i5JoSD6e3IY0=",
+                "role": "Data Scientist",
+                "project_code": "PRJ-002-BW",
+                "ssn": "g6vrkIKD4kIhHlVBd19zgHLG7rINcGyOHIxIzTs6wIE="
+            }
+        ]
+    },
+    "clients": [
+        {
+            "client_id": "CLNT-001",
+            "name": "Acme Corp.",
+            "contact_person": "+XJlbPfvav2irvW/9H3CupcDUKuLTngCMoQMo20RZFE=",
+            "contact_email": "9B+P+84Pyrnfcxb7xXGDQktHAcKm0lTH6//kI1fbu2YN71eTawVuakKbYM+Z96dv",
+            "contact_phone": "pIh4jmTijbtgzD70taK0dGACS1h9M5EPDj0cMZ1pkHQ=",
+            "contract_signed": "OxVzNYewtahOIc861nf+ozrAftjJm6R2WqffacqT7iM=",
+            "contract_value": "KZCV8QE4SSLRLa3u/6jBnRVsneACChWTw2eFAe3qXq4=",
+            "address": "123, Pdvj4I4O0tLpxZTTuRaIkdW86dW8CiRjy3XbmiPuNlc=, 6CQwkh9IBQPmGgGvi9Ksre/lLnoviyo7YDzSMHs4LjU="
+        },
+        {
+            "client_id": "bH5mKAKJzHP4iNTfwS/xfIglncH7VhrDhU2+ekESNVU=",
+            "name": "Globex Corporation",
+            "contact_person": "4eVmWCxZUncKs9A0d+bzIWyUI/lV9vhFkyfch6VMVSY=",
+            "contact_email": "9pEDkO39OxlyJbb+QexT1ZM/8SItr2O2HGRT2JqmqeM9RYhlkuwVdmFw/sdYAFVz",
+            "contact_phone": "kTCg5HHcBKMZIXuwhSxfQmymqMKPatUd1ej0K4CoX20=",
+            "contract_signed": "14Qib1ZFCUzP+01+cHADdDWF85bbVR16eilXgTi57hg=",
+            "contract_value": "+eH7QY7sQF/MR3JIeUgFKktXc7jqfOHj29Kgix80gHM=",
+            "address": "456, ariYNbiqI/yJ2AI/a0ecH983wq4bD5Ju/4CURvx1iO8=, IL"
+        }
+    ],
+    "projects": [
+        {
+            "project_id": "PRJ-001",
+            "name": "AI Research",
+            "start_date": "4ee1AeZRuZ6g8dZIdycf6xOQEabYQgtNfVXUYESOCb4=",
+            "end_date": "pE4LchJROVeBweOL/3bLPh4khSzWVhNxp1kJowdKe90=",
+            "budget": "+OTmUoHIWgiQB8w0NdRozdwLSNR1kAjrEEVABLR2ec4="
+        },
+        {
+            "project_id": "PRJ-002",
+            "name": "Cloud Infrastructure",
+            "start_date": "nmUY668lUNHzqQmtvdenaCbKx6jUjy2y1THvh+cUCQ0=",
+            "end_date": "3eqZy4gAR8wpF+Gmt/WnF3T26XpC8CttbxOj448JSUQ=",
+            "budget": "3Rha8DB1vcwAPvW6sIUJ2F21r8eZ7jMwPHAZ1/Kgq9k="
+        }
+    ]
+}
